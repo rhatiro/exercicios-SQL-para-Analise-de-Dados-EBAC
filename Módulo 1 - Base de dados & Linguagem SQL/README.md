@@ -3,10 +3,10 @@
 ---
 
 # **Módulo 1** | SQL: Base de dados & Linguagem SQL
-Caderno de **Exercícios**<br> 
-Professor [André Perez](https://www.linkedin.com/in/andremarcosperez/)
 
+Professor [André Perez](https://www.linkedin.com/in/andremarcosperez/)<br>
 Aluno [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/rhatiro/)<br>
+
 Data: 10 de maio de 2023.
 
 ---
