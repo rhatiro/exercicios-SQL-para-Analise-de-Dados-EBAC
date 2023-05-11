@@ -13,7 +13,7 @@ Data: 11 de maio de 2023.
 
 ## Atividades
 
-### **1 Explorando os dados da tabela de clientes**
+### **1. Explorando os dados da tabela de clientes**
 
 #### [**1.1. Query 1**](https://raw.githubusercontent.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/main/Mo%CC%81dulo%202%20-%20Trabalhando%20com%20Tabelas/query_1.csv)
 ```sql
