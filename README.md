@@ -13,7 +13,7 @@
 
 - [x] [Módulo 4 - Filtrando & Seleção Condicional](https://github.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/tree/main/Mo%CC%81dulo%204%20-%20Filtrando%20%26%20Selec%CC%A7a%CC%83o%20Condicional)
 
-- [ ] [Módulo 5 - Agregações]()
+- [x] [Módulo 5 - Agregações](https://github.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/tree/main/Mo%CC%81dulo%205%20-%20Agregac%CC%A7o%CC%83es)
 
 - [ ] [Módulo 6 - Trabalhando com Múltiplas Tabelas]()
 
