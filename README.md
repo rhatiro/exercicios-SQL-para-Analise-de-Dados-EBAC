@@ -17,7 +17,7 @@
 
 - [x] [Módulo 6 - Trabalhando com Múltiplas Tabelas](https://github.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/tree/main/Mo%CC%81dulo%206%20-%20Trabalhando%20com%20Mu%CC%81ltiplas%20Tabelas)
 
-- [ ] [Módulo 7 - SQL Avançado]()
+- [x] [Módulo 7 - SQL Avançado](https://github.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/tree/main/Mo%CC%81dulo%207%20-%20SQL%20Avanc%CC%A7ado)
 
 - [ ] [Módulo 8 - Projeto Final]()
 
