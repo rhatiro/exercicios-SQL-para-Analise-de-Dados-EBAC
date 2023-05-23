@@ -19,6 +19,8 @@
 
 - [x] [Módulo 7 - SQL Avançado](https://github.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/tree/main/Mo%CC%81dulo%207%20-%20SQL%20Avanc%CC%A7ado)
 
-- [ ] [Módulo 8 - Projeto Final]()
+- [x] [Módulo 8 - Projeto Final](https://github.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/tree/main/Mo%CC%81dulo%208%20-%20Projeto%20Final)
+  > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/blob/main/Mo%CC%81dulo%208%20-%20Projeto%20Final/Mo%CC%81dulo_8_SQL-Projeto_Final-Roberto_Hatiro.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/robertohatiro/credit-eda-and-analysis)
 
 </details>
